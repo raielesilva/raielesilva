@@ -4,7 +4,7 @@
 #### 🎒 Atualmente navego no desconhecido e me apaixono por cada experiência que aprendo na área da tecnologia e informação. Estou ampliando minhas ambições e conhecimento sobre o futuro que eu busco ter no T.I.
 
 
-#### 🎖️ Aluna da Next Corders e futura T.I na área de cybersegurança, no momento estou aprendendo de forma autodidata juntamente com uma rede de apoio de colegas experientes que me auxiliam no que eu posso me aprimorar e aprender. 
+#### 🎖️ Aluna da Next Corders, no momento estou aprendendo de forma autodidata juntamente com uma rede de apoio de colegas experientes que me auxiliam no que eu posso me aprimorar e aprender. 
 
 
 ## OBJETIVOS E HABILIDADES.
@@ -12,7 +12,6 @@
 *  #### GITHUB
 *  #### C#
 *  #### GIT
-* #### JAVA SCRIPT
 * #### PAYTHOM 
 * #### GOOGLE CL0UD
 
