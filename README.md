@@ -1,22 +1,43 @@
-## RAIELE SILVA SANTOS
+# `> whoami`
 
+**Information Security Student | Cybersecurity**
 
-#### 🎒 Atualmente navego no desconhecido e me apaixono por cada experiência que aprendo na área da tecnologia e informação. Estou ampliando minhas ambições e conhecimento sobre o futuro que eu busco ter no T.I.
+> Learning how systems work.
+> Understanding how they fail.
+> Building the skills to secure them.
 
+---
 
-#### 🎖️ Aluna da Next Corders, no momento estou aprendendo de forma autodidata juntamente com uma rede de apoio de colegas experientes que me auxiliam no que eu posso me aprimorar e aprender. 
+### `~/currently_learning`
 
+* 🔐 Cybersecurity
+* 🌐 Networking
+* 🐧 Linux
+* 🕵️ Ethical Hacking
+* 💻 C#
+* 🗃️ SQL
+* 🔧 Git
 
-## OBJETIVOS E HABILIDADES.
+### `~/focus`
 
-*  #### GITHUB
-*  #### C#
-*  #### GIT
-* #### PAYTHOM 
-* #### GOOGLE CL0UD
+**Cybersecurity · Networks · Linux · Security Research**
 
+### `~/status`
 
+```text
+[+] Learning
+[+] Breaking
+[+] Understanding
+[+] Building
+```
 
+### `~/projects`
+
+> Labs, experiments, notes and projects documenting my journey through cybersecurity.
+
+---
+
+`Memento Mori.`
 
 
 ## REDES SOCIAIS  
