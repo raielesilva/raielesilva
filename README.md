@@ -1,35 +1,33 @@
 # `> whoami`
 
-**Information Security Student | Cybersecurity**
+**Raiele.S| Dev.J/Cybersecurity**
 
-> Learning how systems work.
-> Understanding how they fail.
-> Building the skills to secure them.
-
+> Aprendendo como os sistemas funcionam.
+> Entendendo como eles falham.
+> Desenvolvendo as habilidades para protegê-los.
 ---
 
-### `~/currently_learning`
+### `~/Estudando`
 
 * 🔐 Cybersecurity
-* 🌐 Networking
+* 🌐 Redes
 * 🐧 Linux
 * 🕵️ Ethical Hacking
 * 💻 C#
 * 🗃️ SQL
-* 🔧 Git
+* 🔧 Python
 
-### `~/focus`
+### `~/focos`
 
 **Cybersecurity · Networks · Linux · Security Research**
 
 ### `~/status`
 
 ```text
-[+] Learning
-[+] Breaking
-[+] Understanding
-[+] Building
-```
+[+] Aprendendo
+[+] Explorando
+[+] Entendendo
+[+] Construindo```
 
 ### `~/projects`
 
