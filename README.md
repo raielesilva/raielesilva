@@ -1,9 +1,11 @@
 # `> whoami`
 
-**Raiele.S| Dev.J/Cybersecurity**
+**Raiele.S | Dev.J /Cybersecurity**
 
 > Aprendendo como os sistemas funcionam.
+
 > Entendendo como eles falham.
+
 > Desenvolvendo as habilidades para protegê-los.
 ---
 
